@@ -30,7 +30,7 @@ Convert Hours into Seconds
 https://edabit.com/challenge/6AnQqiEjkJdZrWhPS
 
 Maximum Edge of a Triangle
-vhttps://edabit.com/challenge/nhXofMMyrowMyr9Nv
+https://edabit.com/challenge/nhXofMMyrowMyr9Nv
 
 Area of a Triangle
 https://edabit.com/challenge/3CaszbdZYGN4otQD8
@@ -40,3 +40,4 @@ https://edabit.com/challenge/NAQhEoxbofPidLxm9
 
 Find the Smallest and Biggest Numbers
 https://edabit.com/challenge/Q3n42rEWanZSTmsJm
+
