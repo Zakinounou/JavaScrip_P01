@@ -63,9 +63,20 @@ function addition(num) {
 
 // calculate the sum of cubes from an array
 function sumOfCubes(nums) {
-	var i,sum=0;
-	for(i=0;i<nums.length;i++){
-		sum=sum+nums[i]**3;
-	}
-	return sum;
+  var i, sum = 0;
+  for (i = 0; i < nums.length; i++) {
+    sum = sum + nums[i] ** 3;
+  }
+  return sum;
+}
+
+// Find the Smallest and Biggest Numbers
+function minMax(arr) {
+  var max = arr[0];
+  var min = arr[0];
+  for (let i = 0; i < arr.length; i++) {
+    if (arr[i] > max) max = arr[i];
+    if (arr[i] < min) min = arr[i];
+  }
+  return [min, max];
 }
